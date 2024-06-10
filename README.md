@@ -16,7 +16,7 @@
 
 Soy de Ushuaia, Tierra del Fuego, Argentina.
 
-🎓 Me gradué de una escuela secundaria técnica con un título en Informática. Después, estudié dos años de Turismo en la universidad. Aunque no pude completar la carrera, trabajé como guía turística bilingüe (inglés/español) durante dos años, adquiriendo una valiosa experiencia en la gestión de grupos.
+🎓 Me gradué de una escuela secundaria técnica con un título en Informática. Después, estudié dos años de Turismo en la universidad. Aunque no pude completar la carrera, trabajé como guía turística bilingüe (inglés/español) durante un año, adquiriendo una valiosa experiencia en la gestión de grupos.
 
 💼 Después de mi etapa como guía, me dediqué a las ventas, trabajando en comercio durante algunos años. Luego, regresé a la industria del turismo, desempeñándome como recepcionista y asistente administrativa en una hostería. Durante este tiempo, tuve la oportunidad de trabajar como Asistente de Coordinación de Transporte para la película "The Revenant", lo que me llevó a obtener más trabajos esporádicos en la industria como asistente de producción para publicidades de productoras nacionales.
 
