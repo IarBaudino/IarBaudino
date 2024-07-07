@@ -10,7 +10,21 @@
 <br/>
 <br/>
 
+👩‍💻 Full Stack Developer | JavaScript | React | Redux | Express | Node.js | PostgreSQL | Sequelize
+
+Hi! I'm Iara, a Full Stack Developer from Ushuaia, Tierra del Fuego, Argentina.
+
+🎓 I graduated from Colegio Técnico Provincial Olga B. de Arko in 2007 with a degree in Information Technology. In June 2023, I started an intensive Full Stack Development bootcamp, which I completed in July 2024. During the bootcamp, I acquired skills in key technologies such as JavaScript, React, Redux, Express, Node.js, PostgreSQL, and Sequelize, preparing me to tackle challenges in both front-end and back-end development.
+
+💼 My work experience is diverse. I worked as a bilingual (English/Spanish) tour guide, where I developed group management skills. In retail, I honed my sales and customer service abilities. In the tourism industry, I worked as a receptionist and administrative assistant, and also served as a production assistant for projects like the movie "The Revenant."
+
+🌱 In 2019, I started a boutique nursery business, which I managed until the end of 2022. This experience strengthened my project management and problem-solving skills.
+
+💡 Since 2023, I have been fully dedicated to programming, completing my training as a Full Stack Developer. I am passionate about leveraging my diverse experience and technical skills to create innovative web solutions. I am eager to connect with professionals and opportunities in the tech industry.
+
 👩‍💻 Desarrolladora Full Stack | JavaScript | React | Redux | Express | Node.js | PostgreSQL | Sequelize 👩‍💼
+
+************************************************************************************************************************************************************************************
 
 ¡Hola! Soy Iara, de Ushuaia, Tierra del Fuego, Argentina.
 
