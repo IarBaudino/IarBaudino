@@ -12,17 +12,15 @@
 
 👩‍💻 Desarrolladora Full Stack | JavaScript | React | Redux | Express | Node.js | PostgreSQL | Sequelize 👩‍💼
 
-## ¡Hola! Soy Iara 🌟
+¡Hola! Soy Iara, de Ushuaia, Tierra del Fuego, Argentina.
 
-Soy de Ushuaia, Tierra del Fuego, Argentina.
+🎓 Me gradué de Colegio Técnico Provincial Olga B. de Arko en 2007 con una tecnicatura en Informática. En junio de 2023, inicié un bootcamp intensivo de Desarrollo Full Stack, que completé en julio de 2024. Durante el bootcamp, adquirí habilidades en tecnologías clave como JavaScript, React, Redux, Express, Node.js, PostgreSQL y Sequelize, preparándome para enfrentar desafíos tanto en el front-end como en el back-end.
 
-🎓 Me gradué de una escuela secundaria técnica con un título en Informática. Después, estudié dos años de Turismo en la universidad. Aunque no pude completar la carrera, trabajé como guía turística bilingüe (inglés/español) durante un año, adquiriendo una valiosa experiencia en la gestión de grupos.
+💼 Mi experiencia laboral es diversa. Trabajé como guía turística bilingüe (inglés/español), donde desarrollé habilidades en la gestión de grupos. En el comercio, perfeccioné mis capacidades de ventas y atención al cliente. En la industria del turismo, trabajé como recepcionista y asistente administrativa, además de desempeñarme como asistente de producción para proyectos como la película "The Revenant".
 
-💼 Después de mi etapa como guía, me dediqué a las ventas, trabajando en comercio durante algunos años. Luego, regresé a la industria del turismo, desempeñándome como recepcionista y asistente administrativa en una hostería. Durante este tiempo, tuve la oportunidad de trabajar como Asistente de Coordinación de Transporte para la película "The Revenant", lo que me llevó a obtener más trabajos esporádicos en la industria como asistente de producción para publicidades de productoras nacionales.
+🌱 En 2019, emprendí un negocio de vivero boutique que gestioné hasta finales de 2022. Esta experiencia reforzó mis habilidades en la gestión de proyectos y la resolución de problemas.
 
-🌱 En 2019, inicié un negocio de vivero boutique, que gestioné hasta finales de 2022, momento en el cual comencé a interesarme por la programación. Hoy en día, soy graduada de un bootcamp de Desarrollo Full Stack, donde adquirí las habilidades fundamentales para trabajar como desarrolladora web, tanto en front-end como en back-end. Manejo tecnologías como JavaScript, React, Redux, Express, Node.js, PostgreSQL y Sequelize.
-
-💡 Me apasiona aprovechar mi diversa experiencia y habilidades técnicas para crear soluciones web innovadoras. Estoy ansiosa por conectar con profesionales y oportunidades en la industria tecnológica.
+💡 Desde 2023, me he dedicado plenamente a la programación, completando mi formación como desarrolladora Full Stack. Me apasiona aprovechar mi diversa experiencia y habilidades técnicas para crear soluciones web innovadoras. Estoy ansiosa por conectar con profesionales y oportunidades en la industria tecnológica.
 
 ## Tecnologías 🔥
 - Desarrollo web con **JavaScript, React, Redux, Express, Node.js, PostgreSQL, Sequelize**.
